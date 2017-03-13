@@ -1,1 +1,8 @@
 D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\bin\Debug\Purse.exe.config
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\bin\Debug\Purse.exe
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\bin\Debug\Purse.pdb
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\bin\Debug\Money.dll
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\bin\Debug\Money.pdb
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\obj\Debug\Purse.exe
+D:\роб стіл\5 курс\Part 2\Методологія розробки ПЗ\Lab_2\Git_Repos\Purse\Purse\obj\Debug\Purse.pdb
