@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Purse
 {
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
+            var money = new Money.Money(100);
+            Console.WriteLine(money.GetMoney());    
         }
     }
 }
