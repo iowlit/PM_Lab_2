@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CreditCard\CreditCard.csproj">
+      <Project>{c832bcc1-a75f-4495-be37-f2813fd90987}</Project>
+      <Name>CreditCard</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Money\Money.csproj">
       <Project>{6b449345-2c53-4089-bdbc-03c0e9e3ad6e}</Project>
       <Name>Money</Name>

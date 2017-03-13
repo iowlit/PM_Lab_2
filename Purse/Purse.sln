@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj", "{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{C832BCC1-A75F-4495-BE37-F2813FD90987}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B449345-2C53-4089-BDBC-03C0E9E3AD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C832BCC1-A75F-4495-BE37-F2813FD90987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C832BCC1-A75F-4495-BE37-F2813FD90987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C832BCC1-A75F-4495-BE37-F2813FD90987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C832BCC1-A75F-4495-BE37-F2813FD90987}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

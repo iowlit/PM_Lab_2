@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CreditCard
 {
-    class CreditCard
+    public class CreditCard
     {
-        private decimal amount = 0;
+        public decimal amount = 0;
         private string msg = "Credit Card balanse: ";
 
         public string GetSumCreditCard()

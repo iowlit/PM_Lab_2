@@ -1,0 +1,5 @@
+G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\CreditCard\bin\Debug\CreditCard.dll
+G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\CreditCard\bin\Debug\CreditCard.pdb
+G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\CreditCard\obj\Debug\CreditCard.csprojResolveAssemblyReference.cache
+G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\CreditCard\obj\Debug\CreditCard.dll
+G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\CreditCard\obj\Debug\CreditCard.pdb
