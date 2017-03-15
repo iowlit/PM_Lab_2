@@ -16,3 +16,6 @@ G:\Drive\Об’єктно-орієнтований аналіз і  проек�
 G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\Purse\bin\Debug\CreditCard.pdb
 G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\Purse\bin\Debug\Money.pdb
 G:\Drive\Об’єктно-орієнтований аналіз і  проектування\Lab_2\PM_Lab_2\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\OneDrive\Сльози на очах\Liubin\Lab 2\PM_Lab_2\Purse\Purse\bin\Debug\Purse.exe.config
+C:\Users\Sergio\OneDrive\Сльози на очах\Liubin\Lab 2\PM_Lab_2\Purse\Purse\obj\Debug\Purse.exe
+C:\Users\Sergio\OneDrive\Сльози на очах\Liubin\Lab 2\PM_Lab_2\Purse\Purse\obj\Debug\Purse.pdb
