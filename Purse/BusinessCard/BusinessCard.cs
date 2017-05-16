@@ -7,15 +7,19 @@ using System.Threading.Tasks;
 namespace BusinessCard
 {
     public class BusinessCard
-    { 
-        public string name = "";
-        public BusinessCard(string name)
+    {
+        public decimal amount = 0;
+        private string msg = "Business Card balanse: ";
+
+        public string GetSumCreditCard()
         {
-            this.name = name;
+            return msg + amount.ToString();
         }
-        public string FindOutWhose()
+
+        public BusinessCard(decimal amount)
         {
-            return name + "'s business card";
+            this.amount = amount;
         }
+
     }
 }

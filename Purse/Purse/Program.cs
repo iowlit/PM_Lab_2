@@ -2,7 +2,7 @@
 
 namespace Purse
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -10,8 +10,8 @@ namespace Purse
             Console.WriteLine(money.GetMoney());
             var credit = new CreditCard.CreditCard(500);
             Console.WriteLine(credit.GetSumCreditCard());
-            var bcard = new BusinessCard.BusinessCard("Iowlit");
-            Console.WriteLine(bcard.FindOutWhose());
+            //var bcard = new BusinessCard.BusinessCard("Iowlit");
+            //Console.WriteLine(bcard.FindOutWhose());
         }
     }
 }
